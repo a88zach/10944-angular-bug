@@ -1,12 +1,12 @@
 {
-  "name": "credentialing-web",
+  "name": "10944",
   "version": "1.0.0",
-  "description": "Credentialing Portal UI",
+  "description": "",
   "author": {
-    "name": "Verge Solutions, LLC",
-    "url": "https://www.verge-solutions.com"
+    "name": "",
+    "url": ""
   },
-  "homepage": "https://credentialing.verge-solutions.com",
+  "homepage": "",
   "private": true,
   "dependencies": {
     "@angular/common": "2.0.0-rc.5",
